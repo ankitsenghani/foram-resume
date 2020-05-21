@@ -1,0 +1,172 @@
+html {
+    margin: 20px;
+    padding: 0;
+    width: 1080px;
+    background-color: #636b6b;
+}
+
+body {
+    font-family: calibri;
+    padding: 0px 50px;
+    width: 1080px;
+}
+
+/* Left section style */
+
+.left-section {
+    float: left;
+    width: 22%;
+    height: 1100px;
+    padding-top: 40px;
+    background-color: #2c4179;
+    color: #dfe9f3;
+    padding: 0 60px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.href-left-section {
+    color: #dfe9f3;
+}
+
+.left-top h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.left-top p {
+    font-size: 0.9em;
+    padding: 0;
+    margin-top: 0;
+}
+
+.details h2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.details p {
+    margin: 0;
+    padding: 0;
+    font-size: 0.9em;
+}
+
+.nationality h2 {
+    padding-top: 10px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.nationality p {
+    margin: 0;
+    padding: 0;
+    font-size: 0.9em;
+}
+
+.date-place-birth h2 {
+    padding-top: 10px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-size: 1.4em;
+}
+
+.date-place-birth p {
+    margin: 0;
+    padding: 0;
+    font-size: 0.9em;
+}
+
+.skills {
+    padding-top: 20px;
+}
+
+.skills p {
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-size: 0.9em;
+}
+
+.skills .table {
+    margin: 0;
+}
+
+.language {
+    padding-top: 20px;
+}
+
+.language p {
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-size: 0.9em;
+}
+
+.language .table {
+    margin: 0;
+}
+
+.hobbies {
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.hobbies h2 {
+    margin: 0;
+}
+
+.hobbies p {
+    margin-top: 3px;
+    font-size: 0.9em;
+}
+
+/* Right section style */
+
+.right-section {
+    float: left;
+    width: 60%;
+    height: 1100px;
+    padding: 0px 30px;
+    color: #1b1a1a;
+    background-color: #dbf0f0;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.right-section .education h3 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-weight: 550;
+    font-size: 1.08em;
+}
+
+.right-section .education p {
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 0.8em;
+}
+
+.right-section .courses h3 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-weight: 550;
+    font-size: 1.08em;
+}
+
+.right-section .courses p {
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 0.8em;
+}
+
+.right-section .employment-history-section h3 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-weight: 550;
+    font-size: 1.08em;
+}
+
+.right-section .employment-history-section p {
+    margin-top: 0;
+    padding-top: 0;
+    font-size: 0.8em;
+}
